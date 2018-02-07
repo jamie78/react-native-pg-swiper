@@ -1,0 +1,103 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-pg-swiper",
+        "scope": null,
+        "escapedName": "react-native-pg-swiper",
+        "name": "react-native-pg-swiper",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/jakubkraus/ooo/OaksLabAcademy"
+    ]
+  ],
+  "_from": "react-native-pg-swiper@latest",
+  "_id": "react-native-pg-swiper@0.3.121",
+  "_inCache": true,
+  "_location": "/react-native-pg-swiper",
+  "_nodeVersion": "6.11.2",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-native-pg-swiper-0.3.121.tgz_1505745926416_0.549533522920683"
+  },
+  "_npmUser": {
+    "name": "wadehrarshpreet",
+    "email": "aashu.wadehra@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-pg-swiper",
+    "scope": null,
+    "escapedName": "react-native-pg-swiper",
+    "name": "react-native-pg-swiper",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-pg-swiper/-/react-native-pg-swiper-0.3.121.tgz",
+  "_shasum": "e63831bed30505c20fa68eb802fe48c03df8fcbc",
+  "_shrinkwrap": null,
+  "_spec": "react-native-pg-swiper",
+  "_where": "/Users/jakubkraus/ooo/OaksLabAcademy",
+  "author": {
+    "name": "Christopher Garvis",
+    "email": "cgarvis@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/wadehrarshpreet/react-native-pg-swiper/issues"
+  },
+  "dependencies": {},
+  "description": "Page Swiper component for React Native.",
+  "devDependencies": {
+    "babel-eslint": "^4.1.8",
+    "eslint": "^1.10.3",
+    "eslint-config-fixt": "^1.0.1",
+    "eslint-plugin-react": "^3.16.1"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "e63831bed30505c20fa68eb802fe48c03df8fcbc",
+    "tarball": "https://registry.npmjs.org/react-native-pg-swiper/-/react-native-pg-swiper-0.3.121.tgz"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "gitHead": "4d7971cbb3f278914a99d387902dd564b927b343",
+  "homepage": "https://github.com/wadehrarshpreet/react-native-pg-swiper#readme",
+  "keywords": [
+    "react",
+    "react-component",
+    "react-native",
+    "swiper",
+    "ios",
+    "android"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "maintainers": [
+    {
+      "name": "wadehrarshpreet",
+      "email": "aashu.wadehra@gmail.com"
+    }
+  ],
+  "name": "react-native-pg-swiper",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react": "0.14.x || 15.x.x",
+    "react-native": ">=0.18.0 <=0.30.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wadehrarshpreet/react-native-pg-swiper.git"
+  },
+  "scripts": {},
+  "version": "0.3.121"
+}
