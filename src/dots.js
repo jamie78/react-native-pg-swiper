@@ -9,12 +9,6 @@ import {
 import Dot from './dot';
 
 export default class Dots extends Component {
-  static propTypes = {
-    total: React.PropTypes.number,
-    active: React.PropTypes.number,
-    style: View.propTypes.style,
-  };
-
   static defaultProps = {
     total: 0,
     active: -1,

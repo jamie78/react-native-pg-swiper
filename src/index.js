@@ -11,16 +11,6 @@ import Dots from './dots';
 
 
 export default class Swiper extends Component {
-  static propTypes = {
-    children: React.PropTypes.node.isRequired,
-    index: React.PropTypes.number,
-    threshold: React.PropTypes.number,
-    pager: React.PropTypes.bool,
-    disableLastSwipe: React.PropTypes.bool,
-    onPageChange: React.PropTypes.func,
-    activeDotColor: React.PropTypes.string,
-  };
-
   static defaultProps = {
     index: 0,
     pager: true,
